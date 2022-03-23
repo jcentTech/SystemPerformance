@@ -7,3 +7,6 @@ https://www.thepythoncode.com/article/get-hardware-system-information-python#GPU
 
 pyinstaller
 https://exerror.com/pyinstaller-is-not-recognized-as-an-internal-or-external-command-operable-program-or-batch-file/
+
+sample
+https://www.earthinversion.com/desktopapps/system-monitor-app-in-python/
