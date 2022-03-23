@@ -10,3 +10,6 @@ https://exerror.com/pyinstaller-is-not-recognized-as-an-internal-or-external-com
 
 sample
 https://www.earthinversion.com/desktopapps/system-monitor-app-in-python/
+
+qt design
+https://www.youtube.com/watch?v=6qcVaT8Wol8
