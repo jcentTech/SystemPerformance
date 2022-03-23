@@ -29,15 +29,4 @@ https://www.youtube.com/watch?v=kxSuHyQfStA
 
 
 use python 3.9 or lower to use pyqt5 tools because it is not compatible with the latest python version as of the moment.
-
-
-Python 3.9.11 - March 16, 2022
-https://www.python.org/downloads/windows/
-Note that Python 3.9.11 cannot be used on Windows 7 or earlier.
-
-Download Windows embeddable package (32-bit)
-Download Windows embeddable package (64-bit)
-Download Windows help file
-Download Windows installer (32-bit)
-Download Windows installer (64-bit)
-
+tangina wala ako mahanap!!
