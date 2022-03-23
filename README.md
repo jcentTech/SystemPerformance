@@ -1,4 +1,8 @@
 # SystemPerformance
+searched
+-python hardware monitoring system
+
+
 hakdog
 https://www.codeguru.com/visual-basic/obtaining-computer-information-with-visual-basic-net/
 
