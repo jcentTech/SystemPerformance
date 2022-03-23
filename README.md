@@ -17,3 +17,5 @@ https://www.earthinversion.com/desktopapps/system-monitor-app-in-python/
 
 qt design
 https://www.youtube.com/watch?v=6qcVaT8Wol8
+
+https://www.youtube.com/watch?v=5K__zwBj_nY
