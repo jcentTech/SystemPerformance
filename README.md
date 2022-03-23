@@ -19,3 +19,10 @@ qt design
 https://www.youtube.com/watch?v=6qcVaT8Wol8
 
 https://www.youtube.com/watch?v=5K__zwBj_nY
+
+pyqt5
+https://www.youtube.com/watch?v=kxSuHyQfStA
+
+
+use python 3.9 to use pyqt5 tools because it is not compatible with the latest python version as of the moment.
+
