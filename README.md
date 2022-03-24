@@ -29,4 +29,9 @@ https://www.youtube.com/watch?v=kxSuHyQfStA
 
 
 use python 3.9 or lower to use pyqt5 tools because it is not compatible with the latest python version as of the moment.
-tangina wala ako mahanap!!
+tangina wala ako mahanap!!3
+
+
+speedtest code
+
+https://open.spotify.com/track/0zj4YsR3PXqwwRiG0PDwpc?si=31fa912b585c4bf2
