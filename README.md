@@ -34,4 +34,8 @@ tangina wala ako mahanap!!3
 
 speedtest code
 
-https://open.spotify.com/track/0zj4YsR3PXqwwRiG0PDwpc?si=31fa912b585c4bf2
+https://www.youtube.com/watch?v=sPq8a1MUgr0
+https://www.geeksforgeeks.org/test-internet-speed-using-python/
+
+creating another tk wihtin ah tk
+https://www.geeksforgeeks.org/open-a-new-window-with-a-button-in-python-tkinter/
