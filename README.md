@@ -46,3 +46,7 @@ https://stackoverflow.com/questions/38103690/get-system-informationcpu-speed-tot
 
 samples
 https://github.com/sivel/speedtest-cli/wiki
+
+
+real time 
+https://stackoverflow.com/questions/67707828/how-to-get-every-seconds-gpu-usage-in-python
