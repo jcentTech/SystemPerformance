@@ -43,3 +43,6 @@ https://www.geeksforgeeks.org/open-a-new-window-with-a-button-in-python-tkinter/
 
 display gpu even integrated graphics
 https://stackoverflow.com/questions/38103690/get-system-informationcpu-speed-total-ram-graphic-card-model-etc-under-window
+
+samples
+https://github.com/sivel/speedtest-cli/wiki
