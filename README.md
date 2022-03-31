@@ -50,3 +50,6 @@ https://github.com/sivel/speedtest-cli/wiki
 
 real time 
 https://stackoverflow.com/questions/67707828/how-to-get-every-seconds-gpu-usage-in-python
+
+public IP address
+https://www.codegrepper.com/code-examples/python/python+get+public+ip+address
