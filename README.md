@@ -39,3 +39,7 @@ https://www.geeksforgeeks.org/test-internet-speed-using-python/
 
 creating another tk wihtin ah tk
 https://www.geeksforgeeks.org/open-a-new-window-with-a-button-in-python-tkinter/
+
+
+display gpu even integrated graphics
+https://stackoverflow.com/questions/38103690/get-system-informationcpu-speed-total-ram-graphic-card-model-etc-under-window
